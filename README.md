@@ -28,7 +28,7 @@ Measures the **information viscosity** of the input signal by computing fractal 
 - **High viscosity (low motion):** System trusts its internal model → strong feedback → crystallization
 - **Low viscosity (high motion):** System trusts sensory input → weak feedback → adapts to change
 
-**Why this matters:** This is the key innovation from the research described in the conversation history. By measuring how structure degrades under blur, we detect scene stability without expensive optical flow. Only regenerate AI frames when coherence changes significantly.
+**Why this matters:** By measuring how structure degrades under blur, we detect scene stability without expensive optical flow. Only regenerate AI frames when coherence changes significantly.
 
 #### 3. **The Crystallizer (Entropy Resistance)**
 Feedback loops naturally average and blur. To fight this, an unsharp mask is applied *inside* the feedback path:
@@ -60,8 +60,8 @@ Since phase lock keeps edges aligned across frames, the sharpener repeatedly rei
 ### Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stable-ai-flow.git
-cd stable-ai-flow
+git clone https://github.com/anttiluode/stableaiflow.git
+cd stableaiflow
 
 # Install PyTorch with CUDA (critical for performance)
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
