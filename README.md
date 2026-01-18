@@ -152,21 +152,6 @@ Memory usage:
 - **~6GB VRAM** (model + single frame buffer)
 - **~2GB RAM** (video capture + GUI)
 
-## 🎨 Prompt Engineering Tips
-
-The system works best with **structural descriptions** rather than photorealistic ones:
-
-✅ **Good prompts:**
-- "charcoal sketch of a cyborg, dark, gritty, detailed"
-- "ink drawing, crosshatch shading, technical illustration"
-- "etching style portrait, high contrast, fine lines"
-- "pencil sketch, dramatic lighting, architectural"
-
-❌ **Avoid:**
-- "photorealistic portrait" (fights the crystallizer)
-- "blurry dream" (conflicts with sharpening loop)
-- "colorful painting" (phase lock works best with structural, not chromatic features)
-
 ## 🐛 Troubleshooting
 
 **Black screen on startup:**
