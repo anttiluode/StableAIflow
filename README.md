@@ -1,4 +1,6 @@
-# Stable AI Flow v21: Phase-Locked Live AI Filter
+# Stable AI Flow: Phase-Locked Live AI Filter
+
+
 
 **A real-time AI video filter that uses phase correlation and fractal coherence analysis to create temporally stable visual transformations without flickering.**
 
