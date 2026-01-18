@@ -238,8 +238,6 @@ This project synthesizes ideas from:
 - **Fractal Dimension Analysis** (Mandelbrot, Buzsáki) - Multi-scale structure
 - **Mechanistic Interpretability** (Anthropic 2024) - Understanding model internals
 
-See the [full research discussion](conversation_history.md) for technical derivations.
-
 ## 📄 License
 
 MIT License - Free to use, modify, and distribute.
