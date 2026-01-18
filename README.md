@@ -4,13 +4,13 @@ Watch the video:
 
 [![Watch the video](https://img.youtube.com/vi/PU0qYzQHRqo/0.jpg)](https://youtu.be/PU0qYzQHRqo)
 
-**A real-time AI video filter that uses phase correlation and fractal coherence analysis to create temporally stable visual transformations without flickering.**
+**A real-time AI video filter that uses phase correlation and fractal coherence analysis to create temporally stable visual transformations.**
 
 ![Demo](stable.png)
 
 ## 🔬 The Core Discovery: Physics-Based Temporal Coherence
 
-Most AI video filters suffer from severe flickering because they treat each frame independently. This project solves that by treating the video stream as a **complex signal** with measurable **structural coherence** (fractal dimension) and using **phase locking** to maintain temporal stability.
+Most AI video filters suffer from severe hallucinations because they treat each frame independently. This project solves that by treating the video stream as a **complex signal** with measurable **structural coherence** (fractal dimension) and using **phase locking** to maintain temporal stability.
 
 ### The Three Pillars
 
