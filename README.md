@@ -236,15 +236,6 @@ This project synthesizes ideas from:
 
 See the [full research discussion](conversation_history.md) for technical derivations.
 
-## 🤝 Contributing
-
-Contributions welcome! Areas of interest:
-- [ ] Support for other diffusion models (SD 3.0, FLUX)
-- [ ] Multi-face tracking
-- [ ] Export to video file
-- [ ] Real-time coherence metrics display
-- [ ] Adaptive inference steps based on motion
-
 ## 📄 License
 
 MIT License - Free to use, modify, and distribute.
