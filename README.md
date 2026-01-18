@@ -249,10 +249,4 @@ MIT License - Free to use, modify, and distribute.
 - The research discussions that led to fractal coherence analysis
 - Community feedback and testing
 
-## 📧 Contact
-
-Questions? Open an issue or reach out on [Twitter/X](#) or [Discord](#).
-
----
-
 **Note:** This is experimental research software. While it runs in real-time, it's not optimized for production use. Use at your own risk, and have fun exploring the phase-locked state space! 🚀
